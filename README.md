@@ -1,4 +1,4 @@
-#labpy1
+# labpy1
 ![foto1](https://raw.githubusercontent.com/Togarmaoctavianus123/labpy1/master/ScreenShot1.jpg)
 1. Inputkan angka di bilangan ke-1
 
